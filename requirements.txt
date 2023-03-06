@@ -1,0 +1,5 @@
+behave==1.2.6
+jproperties==2.1.1
+pytest==7.2.1
+selenium==4.8.2
+webdriver_manager==3.8.5
